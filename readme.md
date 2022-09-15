@@ -1,7 +1,7 @@
 # Switch
-An algorithm to change base of any given number (N) to any specified base (B). It supports integers only for now and *upto base 85*.
+An algorithm to change the base of any base 10 given number (N<sub>10</sub>) to any specified base (B). It supports integers only for now and *upto base 85*.
 
-<p>N<sub>B1</sub> => X<sub>B2</sub></p>
+N<sub>10</sub> => X<sub>B</sub>
 
 If there are non-numeric symbols involved, it also returns a dictionary to map the symbols. For example, the following symbols are used in Hexadecimal:
 

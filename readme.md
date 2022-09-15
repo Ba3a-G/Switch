@@ -1,5 +1,5 @@
 # Switch
-An algorithm to change the base of any base 10 given number (N<sub>10</sub>) to any specified base (B). It supports integers only for now and *upto base 85*.
+An algorithm to change the base of any decimal number (N<sub>10</sub>) to any specified base (B). It supports integers only for now and *upto base 85*.
 
 N<sub>10</sub> => X<sub>B</sub>
 
